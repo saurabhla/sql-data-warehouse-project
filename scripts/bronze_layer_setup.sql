@@ -2,8 +2,6 @@
     Project: SQL Data Warehouse & Analytics
     File:    create_bronze_tables.sql
     Purpose: Create all source (Bronze Layer) tables for CRM and ERP systems
-    Author:  [Your Name]
-    Date:    [Date]
 
     Description:
     This script creates the Bronze Layer tables that store raw, unprocessed data 
