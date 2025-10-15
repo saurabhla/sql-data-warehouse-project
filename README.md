@@ -42,5 +42,17 @@ It integrates **ERP, CRM, and Excel data sources** into a centralized **data war
 - **Tools Used**: SQL Server, Azure Data Factory, Databricks, Power BI, Git.  
 
 ---
-
 ## 📂 Repository Structure  
+├── /etl_scripts
+├── /sql
+│ ├── bronze
+│ ├── silver
+│ └── gold
+├── /architecture_diagrams
+├── /docs
+└── README.md
+---
+
+## 📊 Outcome  
+A complete **SQL Data Warehouse and Analytics solution** that supports data ingestion, transformation, and visualization — enabling data-driven decision-making across the organization.
+
