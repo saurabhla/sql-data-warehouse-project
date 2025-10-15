@@ -1,8 +1,7 @@
 /*******************************************************************************************
     Project: SQL Data Warehouse & Analytics
-    File:    02_load_bronze_procedure.sql
-    Author:  [Your Name]
-    Date:    [Date]
+    File:    load_bronze_procedure.sql
+
 
     Purpose:
     This stored procedure (bronze.load_bronze) automates the data ingestion 
