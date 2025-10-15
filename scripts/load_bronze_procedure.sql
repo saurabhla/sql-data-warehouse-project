@@ -1,8 +1,6 @@
 /*******************************************************************************************
     Project: SQL Data Warehouse & Analytics
     File:    load_bronze_procedure.sql
-
-
     Purpose:
     This stored procedure (bronze.load_bronze) automates the data ingestion 
     into the Bronze Layer of the Data Warehouse.
