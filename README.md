@@ -56,3 +56,16 @@ It integrates **ERP, CRM, and Excel data sources** into a centralized **data war
 ## 📊 Outcome  
 A complete **SQL Data Warehouse and Analytics solution** that supports data ingestion, transformation, and visualization — enabling data-driven decision-making across the organization.
 
+## 💡 About Me
+
+Hi there! 👋  
+I'm a **data enthusiast** who loves transforming raw data into meaningful insights.  
+From cleaning and analyzing datasets in **SQL** to building interactive dashboards in **Power BI**,  
+I enjoy every step of the data journey.
+
+When I’m not exploring datasets, you’ll find me experimenting with new tech tools,  
+automating small workflows, or learning something new about **machine learning** and **analytics**.
+
+📊 **Let’s Connect:** [LinkedIn →](https://www.linkedin.com/in/saurabh-lagad/) 
+
+
