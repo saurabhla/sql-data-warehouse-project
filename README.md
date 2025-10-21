@@ -1,9 +1,16 @@
-![Data Warehouse Architecture_Pro](https://github.com/user-attachments/assets/44a2134d-15c7-40f4-936e-7dc0dde84be7)# SQL Data Warehouse & Analytics Project  
+# SQL Data Warehouse & Analytics Project  
 
 ## 📘 Overview  
 This project demonstrates the **design and implementation of a modern SQL-based Data Warehouse** and Analytics solution.  
 It integrates **ERP, CRM, and Excel data sources** into a centralized **data warehouse** through an **ETL pipeline**, enabling clean, structured, and business-ready data for **reporting and analytics**.
 
+---
+## 🧰 Tools Used
+
+- **SQL Server** – For designing, managing, and querying the Data Warehouse.  
+- **Notion** – For project documentation, planning, and task tracking.  
+- **GitHub** – For version control and collaboration on SQL scripts and documentation.  
+- **Draw.io** – For creating architecture and data flow diagrams.
 ---
 
 ## 🚀 Epics & Tasks  
